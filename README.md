@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/desktop.png)
-![](./design/mobile.png)
+![](./design/Desktop.png)
+![](./design/Phone.png)
 
 ### Links
 

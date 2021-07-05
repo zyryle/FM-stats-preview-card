@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/zyryle/FM-stats-preview-card]
-- Live Site URL: [https://fm-stats-preview-card.vercel.app/]
+- Solution URL: [Github](https://github.com/zyryle/FM-stats-preview-card)
+- Live Site URL: [Vercel](https://fm-stats-preview-card.vercel.app/)
 
 ### Built with
 
